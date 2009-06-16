@@ -1,0 +1,4 @@
+The results of the first CRB Randori-Fishbowl Pair-programming[1] session. We worked on the "Roman Numerals" Ruby Quiz[2] problem and were able to successful implement a Roman Numberal to Arabic Number converter, but not the later half. Feel free to fork and finish. Even better, come to the CRB Code Jam on Wed, June 24th and pair with someone on the completion of the problem.
+
+[1] http://faithfulgeek.org/randori-all-inclusive-user-group-hackfest.html
+[2] http://rubyquiz.com/quiz22.html
